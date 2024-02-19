@@ -1,0 +1,8 @@
+Taxi Driver|drama|1976
+Modern Times|komedija|1936
+Citizen Kane|drama|1941
+2001: A Space Odyssey|SF|1968
+The Godfather|drama|1972
+Alien|SF|1979
+Chinatown|drama|1974
+Monty Python and the Holy Grail|komedija|1975

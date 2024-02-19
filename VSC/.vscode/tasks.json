@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build with gcc",
+            "type": "shell",
+            "command": "gcc",
+            "args": ["-g", "-std=c11", "-pedantic", "-Wall", "-o", "main.exe", "${file}"
+            ]
+        },
+        {
+            "label": "Build with make",
+            "type": "shell",
+            "command": "make"
+        },
+        {
+            "label": "Build with g++",
+            "type": "shell",
+            "command": "g++",
+            "args": ["-g", "-o", "main.exe", "${file}"]
+        }
+    ]
+
+}

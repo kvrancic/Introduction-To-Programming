@@ -1,0 +1,14 @@
+4 Nikolina Medvedec 1001 4
+12 Iva Vurnek 1004 3
+27 Ivana Suhina 1005 5
+27 Ivana Suhina 1006 5
+12 Iva Vurnek 1005 2
+3 Natalija Voras 1003 4
+5 Anatolij Ozimec 1007 5
+4 Nikolina Medvedec 1004 5
+5 Anatolij Ozimec 1001 4
+45 Franjo Zdilar 1001 3
+27 Ivana Suhina 1001 3
+4 Nikolina Medvedec 1003 2
+27 Ivana Suhina 1007 2
+5 Anatolij Ozimec 1023 5

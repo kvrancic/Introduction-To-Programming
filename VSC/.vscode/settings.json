@@ -1,0 +1,9 @@
+{
+   "editor.formatOnSave": true,
+   "editor.fontSize": 16,
+   "editor.tabSize": 3,
+   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+   "terminal.explorerKind": "external",
+   "editor.insertSpaces": true,
+   "C_Cpp.vcFormat.newLine.scopeBracesOnSeparateLines": true
+}

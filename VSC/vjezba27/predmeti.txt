@@ -1,0 +1,9 @@
+1005 Matematika 1
+1004 Osnove elektrotehnike
+1001 Biologija
+1002 Kemija
+1006 Povijest
+1007 Matematika 2
+1023 Fizika 1
+1030 Engleski jezik
+1021 Programiranje
